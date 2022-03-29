@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/raia_alvin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raia_alvin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alvinkaranja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvinkaranja" height="30" width="40" /></a>
-<a href="https://hashnode.com/@alvinraia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@alvinraia" height="30" width="40" /></a>
+<a href="https://twitter.com/raia_alvin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raia_alvin" height="30" width="40" /></a><br>
+<a href="https://linkedin.com/in/alvinkaranja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvinkaranja" height="30" width="40" /></a><br>
+<a href="https://hashnode.com/@alvinraia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@alvinraia" height="30" width="40" /></a><br>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvin-karanja&show_icons=true&locale=en&layout=compact" alt="alvin-karanja" /></p>
