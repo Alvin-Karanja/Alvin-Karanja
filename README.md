@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvin-karanja&label=Profile%20views&color=0e75b6&style=flat" alt="alvin-karanja" /> </p>
 
-- 🌱 I’m currently learning **Kotlin, Jetpack Compose**
+- 🌱 I’m currently learning **Kotlin, Jetpack Compose and Multiplatform**
 
 - 📝 I regularly write articles on [Android, Software Development](Android, Software Development)
 
