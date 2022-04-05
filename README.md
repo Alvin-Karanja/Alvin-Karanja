@@ -8,7 +8,4 @@
 - 📝 I regularly write articles on [Android, Software Development](Android, Software Development)
 
 - 💬 Ask me about **Android Development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
