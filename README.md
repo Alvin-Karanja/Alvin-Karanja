@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Alvin Karanja</h1>
-<h3 align="center">A Software Engineer from the Internet</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvin-karanja&label=Profile%20views&color=0e75b6&style=flat" alt="alvin-karanja" /> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/raia_alvin" target="blank"><img src="https://img.shields.io/twitter/follow/raia_alvin?logo=twitter&style=for-the-badge" alt="raia_alvin" /></a> </p> -->
+- 🔭 I’m currently working on **Android Development**
 
-- 🌱 I’m currently learning **Java,Kotlin**
+- 🌱 I’m currently learning **Kotlin, Jetpack Compose**
 
-- 📝 I regularly write articles on [https://alvinkaranja.hashnode.dev/](https://alvinkaranja.hashnode.dev/)
+- 📝 I regularly write articles on [Android, Software Development](Android, Software Development)
 
-- 💬 Ask me about **Anything technical....I'll try to answer(or google)**
+- 💬 Ask me about **Android Development**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://hashnode.com/@alvinraia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@alvinraia" height="30" width="40" /></a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvin-karanja&show_icons=true&locale=en&layout=compact" alt="alvin-karanja" /></p>
 
